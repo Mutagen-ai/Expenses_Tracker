@@ -4,7 +4,7 @@ Tracks Monthly Personal  Expenses
 ## Concepts covered
 - Variables
 - Data types
-- Dta structures
+- Data structures
 
 Personal Expenses Tracker
 
